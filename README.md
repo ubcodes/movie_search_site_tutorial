@@ -44,7 +44,7 @@ To get the Movie Search App up and running on your local machine, follow these s
 2. Navigate to the project directory:
 
    ```shell
-   cd movie-search-app
+   cd movie_search_site_tutorial
    ```
 
 3. Install the project dependencies:
